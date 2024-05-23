@@ -1,4 +1,4 @@
-Python and SQL
+# Python and SQL
 
 This assignment focuses on implementing the database for Pizza Hat, a shop specializing in pizza-shaped hats. The assignment consists of three parts:
 
